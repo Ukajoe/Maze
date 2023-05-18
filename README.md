@@ -35,7 +35,7 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 
 # project Demo
  [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
-# Authors
+# Author
 - Uka Joseph(https://github.com/ukajoe)
 
 
